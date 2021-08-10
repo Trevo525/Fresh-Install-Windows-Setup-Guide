@@ -20,21 +20,32 @@ If your installation media was too far behind (If you used the 'Obtain Windows t
 ## Driver Updates
 
 ### Graphics Cards
-* Nvidia
-  * [Nvidia Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
-  * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/): Watch a video about this [here](https://www.youtube.com/watch?v=LR1XkjtylCM).
-* AMD
-  * [AMD Radeon Software](https://www.amd.com/en/technologies/radeon-software)
+- Nvidia
+  - [Nvidia Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
+  - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/): Watch a video about this [here](https://www.youtube.com/watch?v=LR1XkjtylCM).
+- AMD
+  - [AMD Radeon Software](https://www.amd.com/en/technologies/radeon-software)
 
 # Software Installs
+## General Software
+
+- [ninite](https://ninite.com/): This will help you install many of the most important softwares.
+  - [Basic (non-gamer) config](https://ninite.com/7zip-chrome-firefox-revo-teracopy/).
+  - [My personal config](https://ninite.com/.net4.8-7zip-adoptjavax8-chrome-discord-firefox-googlebackupandsync-greenshot-pythonx3-revo-spotify-steam-teracopy-vlc-winscp-xnview/) (I recommend making your own with the first link)
+- [VS Code](https://code.visualstudio.com/download) I do not install this from ninite because it doesn't give the option to add to the context menu. Meaning that you can't right click a file and select "open with Code" which is helpful for looking at files of many types.
+
+## Gaming Software
+- Install all of the game launchers that you use:
+  - [Steam](https://store.steampowered.com/about/) (I install this with ninite above)
+  - [GOG Galaxy](https://www.gog.com/galaxy)
+  - [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop)
+  - [Ubisoft Connect](https://ubisoftconnect.com/en-US/) (Formerly Uplay)
+  - [Origin](https://www.origin.com/usa/en-us/store/download)
+  - [Epic Games](https://www.epicgames.com/store/en-US/download) (I don't grab this one but I figured I'd include it)
+ 
+## Programming Software
+- [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 # Gaming Specific
 - [Turn off](https://www.tomshardware.com/news/how-to-disable-mouse-acceleration-windows,36886.html) Mouse Acceleration.
 - [Change](https://support.microsoft.com/en-us/windows/change-your-display-refresh-rate-in-windows-c8ea729e-0678-015c-c415-f806f04aae5a) your refresh rate.
-- Install all of the game launchers that you use:
-  * [Steam](https://store.steampowered.com/about/) (I install this with ninite above)
-  * [GOG Galaxy](https://www.gog.com/galaxy)
-  * [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop)
-  * [Ubisoft Connect](https://ubisoftconnect.com/en-US/) (Formerly Uplay)
-  * [Origin](https://www.origin.com/usa/en-us/store/download)
-  * [Epic Games](https://www.epicgames.com/store/en-US/download) (I don't grab this one but I figured I'd include it)
