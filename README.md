@@ -1,5 +1,5 @@
 # Fresh-Install-Windows-Setup-Guide
-This guide is intended to help setup a fresh install of Windows. Basically a personal checklist but I will make it public so that other people can hopefully benefit from it as well.
+This guide is intended to help setup a fresh install of Windows. Basically a personal checklist but I will make it public so that other people can benefit from it as well.
 
 # Obtain Windows to install
 
@@ -15,7 +15,7 @@ This guide is intended to help setup a fresh install of Windows. Basically a per
 
 - [Windows] + [I] > Update & Security > Check for Updates
 
-If your installation media was too far behind, updates can take a while. A good solution is to use [Windows Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) to update your computer. After you do it this way do the method above to make sure there are no smaller updates that need to be added.
+If your installation media was too far behind (If you used the 'Obtain Windows to install' section above it wont be.), updates can take a while. A good solution is to use [Windows Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) to update your computer. After you do it this way do the method above to make sure there are no smaller updates that need to be added.
 
 ## Driver Updates
 
@@ -29,7 +29,8 @@ If your installation media was too far behind, updates can take a while. A good 
 # Software Installs
 
 # Gaming Specific
-- [Turn off](https://www.tomshardware.com/news/how-to-disable-mouse-acceleration-windows,36886.html) Mouse Acceleration
+- [Turn off](https://www.tomshardware.com/news/how-to-disable-mouse-acceleration-windows,36886.html) Mouse Acceleration.
+- [Change](https://support.microsoft.com/en-us/windows/change-your-display-refresh-rate-in-windows-c8ea729e-0678-015c-c415-f806f04aae5a) your refresh rate.
 - Install all of the game launchers that you use:
   * [Steam](https://store.steampowered.com/about/) (I install this with ninite above)
   * [GOG Galaxy](https://www.gog.com/galaxy)
