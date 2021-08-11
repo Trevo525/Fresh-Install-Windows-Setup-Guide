@@ -15,7 +15,7 @@ You should do this before anything else on your computer! BIOS first, but those 
 
 ## Windows Updates
 - Press the key combination: [Windows] + [I] to open Settings and go to Update & Security > Check for Updates.
--  If your installation media was too far behind (If you used the 'Obtain Windows to install' section above it wont be.) updates can take a while. A good solution is to use [Windows Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) to update your computer. After you update this way there might still be some smaller updates that need installed so do the bullet point right above this to be sure.
+-  If your installation media was too far behind (If you used the `Obtain Windows to install` section above it wont be.) updates can take a while. A good solution is to use [Windows Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) to update your computer. After you update this way there might still be some smaller updates that need installed so do the bullet point right above this to be sure.
 
 ## Driver Updates
 The above updates will get basic drivers for most, if not all, of your devices. Windows Update will install some generic drivers instead of ones from the manufacturer or even just older versions of the driver from the manufacturer. This section will show you how to make sure you have the optimal driver for your devices.
