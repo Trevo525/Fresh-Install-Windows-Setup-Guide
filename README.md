@@ -1,4 +1,4 @@
-# Fresh-Install-Windows-Setup-Guide
+# Windows Fresh Install Setup Guide
 This guide is intended to help setup a fresh install of Windows. Basically a personal checklist but I will make it public so that other people can benefit from it as well. I will look at Pull requests. If you don't explain why your addition is better then I will most likely ignore it.
 
 # Obtain Windows to install
