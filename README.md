@@ -11,7 +11,7 @@ This guide is not intended to walk you through the install process. I included t
 Even (especially) a fresh install of Windows will require updates. I suggest you follow the order of this guide and install these from top to bottom as they appear.
 ## Motherboard BIOS and Driver Updates
 You should do this before anything else on your computer! BIOS first, but those can even be done before you reinstall Windows. The rest will be things like chipset drivers, on-board audio drivers, and LAN drivers. You don't have to install everything but if you are uncertain about a specific driver look it up.
-- Find your Motherboard Make and model and search for that plus 'drivers'. For example, with the motherboard 'ASRock X570 Steel Legend' you will search for 'ASRock X570 Steel Legend drivers' and look for a page owned by the manufacturer. Look for a 'support', 'drivers', 'bios and firmware' or something of the sort. For the above example the page would be this: https://rog.asus.com/motherboards/rog-strix/rog-strix-x570-e-gaming-model/helpdesk_bios
+- Find your Motherboard Make and model and search for that plus 'drivers'. For example, with the motherboard 'ASRock X570 Steel Legend' you will search for 'ASRock X570 Steel Legend drivers' and look for a page owned by the manufacturer. Look for a 'support', 'drivers', 'bios and firmware' or something of the sort. For the above example the page would be this: https://www.asrock.com/mb/AMD/X570%20Steel%20Legend/#Download
 
 ## Windows Updates
 - [Windows] + [I] > Update & Security > Check for Updates
