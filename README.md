@@ -4,7 +4,7 @@ This guide is intended to help setup a fresh install of Windows. Basically a per
 **Note**: Any article linked in this guide will be followed by [[A](https://web.archive.org/)]. This is an Archive.org link through their [Wayback Machine](https://web.archive.org/) service. This allows me to save the exact state of the article. If any links are broken, the [[A](https://web.archive.org/)] can be used to see what I saw at the time of adding the article to this guide. I would still use the normal links first and keep the archive as a backup.
 
 # Obtain Windows to install
-This guide is not intended to walk you through the install process. I included this as it might be helpful but I'm not going to make a guide on the install process since it's been covered many times in other guides.
+This guide is not intended to walk you through the install process. I included this as it might be helpful but I'm not going to make a guide on the install process since it's been covered many times in other [guides](https://www.techradar.com/how-to/how-to-install-windows-10). [[A](https://web.archive.org/web/20210204010237/https://www.techradar.com/how-to/how-to-install-windows-10)]
 - Use [Windows Media Creation Tool](https://go.microsoft.com/fwlink/?LinkId=691209) to get the latest iso straight from Microsoft and install it straight to your flashdrive.
 
 # Updates
