@@ -58,7 +58,7 @@ This is highly subjective. I install more than this each time but I wanted to ke
  
 ## Programming
 - [**Visual Studio**](https://visualstudio.microsoft.com/downloads/)
-- [**WSL2**](https://www.sitepoint.com/wsl2/) [[A](https://web.archive.org/web/20210811145613/https://www.sitepoint.com/wsl2/)] (Windows Subsystem for Linux 2)
+- [**WSL2**](https://docs.microsoft.com/en-us/windows/wsl/install-win10) [[A](https://web.archive.org/web/20210821102152/https://docs.microsoft.com/en-us/windows/wsl/install-win10)] (Windows Subsystem for Linux 2)
 - [**Git**](https://git-scm.com/download/win)
 
 # Windows Configurations
